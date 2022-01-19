@@ -1,2 +1,2 @@
-# APP
-CAP APPLICATION
+# APP - App
+> Business Application
