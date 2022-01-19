@@ -1,2 +1,2 @@
 # APP - App
-> Rishab Business Application
+> next Business Application
