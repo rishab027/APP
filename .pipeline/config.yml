@@ -22,11 +22,11 @@ stages:
 
   Release:
     cloudFoundryDeploy: true
-    cfApiEndpoint: "https://api.cf.ap21.hana.ondemand.com"
+    cfApiEndpoint: "https://api.cf.us10.hana.ondemand.com"
     cfOrg: "182176d7trial"
-    cfSpace: "dev"
+    cfSpace: "sapc1"
     cfAppName: "APP"
-    cfCredentialsId: "deploy-to-cf"
+    cfCredentialsId: "github"
     tmsUpload: false
 
 steps:
