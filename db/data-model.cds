@@ -10,7 +10,7 @@ entity Sales {
       comments    : String(100);
       criticality : Integer;
 };
-//first comment
+//
 
 }
 
